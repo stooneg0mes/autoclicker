@@ -1,6 +1,6 @@
 # GUI
 
-The auto-clicker has a simple GUI, please don't judge
+Auto clicker with a really simple GUI
 
 ## Controls
 
